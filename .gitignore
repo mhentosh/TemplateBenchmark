@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/TemplateBenchmark/v15
+/packages/System.ValueTuple.4.5.0/lib/MonoAndroid10/_._
+/packages/System.ValueTuple.4.5.0
+/TemplateBenchmark/.vs/TemplateBenchmark/v15
+/TemplateBenchmark/bin/Debug
+/TemplateBenchmark/obj/Debug
