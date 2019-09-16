@@ -1,6 +1,6 @@
 ﻿namespace TemplateBenchmark.Substitutions
 {
-    internal enum SubstitutorType
+    internal enum SubstitutorType: byte
     {
         Linear,
         Regex
